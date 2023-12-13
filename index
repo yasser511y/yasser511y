@@ -1,0 +1,11 @@
+<html>
+
+<frameset cols="22%,*" >
+<frame name="mn" src="login.html">
+<frame name="ch" src="right.html">
+</frameset>
+
+<body>
+<h1>Sory could not display the page<h1/>
+<body/>
+<html/>
